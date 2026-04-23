@@ -1,4 +1,0 @@
-Nombre:Franco Emanuel
-Apellido:Arndt
-correo electrónico: franco13arndt@gmail.com
-"ERROR: Esta línea no debería estar aquí"
